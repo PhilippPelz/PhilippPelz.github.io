@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Philipp Michael Pelz"
+  name             : "Philipp Pelz"
   avatar           : "/assets/image/philipppelz.jpg"
   bio              : "I am a PhD student in the Group of Prof. Dwayne Miller at the Max Planck Institute for the Structure and Dynamics of Matter in Hamburg. I work on extending the spatiotemporal resolution limits of electron microscopy via computational and machine learning methods."
   location         : "Hamburg, Germany"
@@ -241,6 +241,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
