@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -78,23 +78,23 @@ analytics:
 # Site Author
 author:
   name             : "Philipp Michael Pelz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a PhD student in the Group of Prof. Dwayne Miller at the Max Planck Institute for the Structure and Dynamics of Matter in Hamburg. Previously I did my Master's thesis at the CSAXS beamline at the Paul Scherrer Institute in Switzerland. "
+  avatar           : "/assets/image/philipppelz.jpg"
+  bio              : "I am a PhD student in the Group of Prof. Dwayne Miller at the Max Planck Institute for the Structure and Dynamics of Matter in Hamburg. I work on extending the spatiotemporal resolution limits of electron microscopy via computational and machine learning methods."
   location         : "Hamburg, Germany"
-  email            : philipp.pelz@mpsd.mpg.de
-  uri              : philipppelz.github.io
+  email            : "philipp.pelz@mpsd.mpg.de"
+  uri              : "philipppelz.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/PhilippPelz
+  github           : "https://github.com/PhilippPelz"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/philipppelz?trk=hp-identity-photo
+  linkedin         : "https://www.linkedin.com/in/philipppelz?trk=hp-identity-photo"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -103,7 +103,7 @@ author:
   twitter          :
   vine             :
   weibo            :
-  xing             :
+  xing             : "https://www.xing.com/profile/PhilippMichael_Pelz?sc_o=mxb_p"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
