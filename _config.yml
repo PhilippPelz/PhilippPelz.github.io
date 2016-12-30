@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Philipp Michael Pelz"
+title                    : "Computational Microscopy"
 title_separator          : "-"
 name                     : "Philipp Michael Pelz"
 description              : "My personal website."
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Philipp Michael Pelz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am a PhD student in the Group of Prof. Dwayne Miller at the Max Planck Institute for the Structure and Dynamics of Matter in Hamburg. Previously I did my Master's thesis at the CSAXS beamline at the Paul Scherrer Institute in Switzerland. "
+  location         : "Hamburg, Germany"
   email            : philipp.pelz@mpsd.mpg.de
   uri              : philipppelz.github.io
   bitbucket        :
