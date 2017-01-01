@@ -2,7 +2,7 @@
 layout: single
 permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "About me."
 modified: 2016-11-03T11:55:22-04:00
 ---
 
@@ -12,6 +12,6 @@ Prior to that I took part in the triple-degree [Master in material science explo
 
 I did my undergraduate in Physics and Computer Science at [Technische Universität München](https://www.tum.de/).
 During my undergrad I worked as a software engineer at [Interasco GmbH](https://www.interasco.de/en), developing enterprise software for intellectual property management.
-For my third year project in Physics I worked with Dr. Thorsten Weber at the [Ultrafast X-Ray Science Laboratory](http://ultrafast.lbl.gov/) in Berkeley, where I designed and built a 3D momentum spectrometer. My third year project in Computer Science involved numerical optimization of scan positions in ptychography.
+For my third year project in Physics I worked with Dr. Thorsten Weber at the [Ultrafast X-Ray Science Laboratory](http://ultrafast.lbl.gov/) in Berkeley, where I designed and built a 3D momentum spectrometer for [coulomb-explosion imaging of small molecules](http://journals.aps.org/pra/abstract/10.1103/PhysRevA.89.013403). My third year project in Computer Science involved numerical optimization of scan positions in ptychography.
 
 Prior to my studies I worked as a backend software engineer at [Swinton Insurance](https://www.swinton.co.uk/) in Manchester.
