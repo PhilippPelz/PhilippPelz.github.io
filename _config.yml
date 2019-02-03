@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Philipp Pelz"
   avatar           : "/assets/image/philipppelz.jpg"
-  bio              : "I am a PhD student in the Group of Prof. Dwayne Miller at the Max Planck Institute for the Structure and Dynamics of Matter in Hamburg. I work on extending the spatiotemporal resolution limits of electron microscopy via computational and machine learning methods."
+  bio              : "I am a postdoctoral researcher at UC Berkeley. I am working on atomic resolution electron tomography, computational phase contrast methods, and optimal experimental design for those experiments."
   location         : "Hamburg, Germany"
-  email            : "philipp.pelz@mpsd.mpg.de"
-  uri              : "http://www.mpsd.mpg.de/70729/liquid_to_solid_group"
+  email            : "philipp.pelz@berkeley.edu"
+  uri              : "https://scott.mse.berkeley.edu/"
   bitbucket        :
   codepen          :
   dribbble         :
