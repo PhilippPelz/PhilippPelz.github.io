@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Philipp Pelz"
-  avatar           : "/assets/image/philipppelz.jpg"
+  avatar           : "/assets/image/philipppelz.png"
   bio              : "I am a postdoctoral researcher at UC Berkeley. I am working on atomic resolution electron tomography, computational phase contrast methods, and optimal experimental design for those experiments."
   location         : "Hamburg, Germany"
   email            : "philipp.pelz@berkeley.edu"
